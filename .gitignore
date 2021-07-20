@@ -1,0 +1,7 @@
+//noi ma dung de day cac file minh muon len git server
+/node_modules
+/vendor
+/.idea
+.idea/
+.env
+

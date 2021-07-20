@@ -1,0 +1,6 @@
+//cau hinh trinh compiler dau tien 
+{
+    "presets": [
+        "@babel/preset-env"
+    ]
+}
